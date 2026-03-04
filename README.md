@@ -1,27 +1,28 @@
-# Привет, я Lunatik (DDAredW) 👋
+Lunatik (DDAredW)
 
-Добро пожаловать на мою страницу GitHub! Я java разработчик который создаёт плагины и моды для майнкрафт.
+Java-разработчик. Плагины, моды и стилеры.
 
-## 🚀 О себе
+Связь:
+[Telegram](https://t.me/TgLunatik)
+[Bio](https://guns.lol/Lunatik)
 
-- 🔭 В настоящее время работаю над интересными проектами в области плагинов для майнкрафта
-- 🌱 Постоянно изучаю, учусь и улучшаю свои навыки.
-- 👯 Ищу возможности для сотрудничества на интересных проектах.
-- 📫 Как со мной связаться: Telegram - [@TgLunatik](https://t.me/TgLunatik) Discord - [Inrelos](https://discord.gg/PzTPKz9KXW) 
+⸻
 
-## 🛠️ Мои навыки
-
-- Основной язык программирования: Java.
-- Так же учу другие ЯП: Python, C++.
+Стек
+	•	Java — основной
+	•	Python
+	•	C++
+	•	Fabric / Forge
+	•	Spigot / Paper
 
 ## 💩 Услуги которые я предоставляю
 
-1. Создание мода на любую версию Fabric/Forge для майнкрафта - [*тык*](https://github.com/DDAredW/DDAredW/blob/main/LINKS.md)
-2. Создания плагина любой версии Spigot/Paper для серверов майнкрафт - [*тык*](https://github.com/DDAredW/DDAredW/blob/main/LINKS.md)
+1. Создание мода на любую версию Fabric/Forge - [*тык*](https://github.com/DDAredW/DDAredW/blob/main/LINKS.md)
+2. Создания плагина любой версии Spigot/Paper для серверов - [*тык*](https://github.com/DDAredW/DDAredW/blob/main/LINKS.md)
 3. Перепис уже существующего мода на любую версию Fabric/Forge - [*тык*](https://github.com/DDAredW/DDAredW/blob/main/LINKS.md)
-4. Услуги технического администратора майнкрафт серверов - [*тык*](https://github.com/DDAredW/DDAredW/blob/main/LINKS.md)
+4. Услуги технического администратора серверов - [*тык*](https://github.com/DDAredW/DDAredW/blob/main/LINKS.md)
 
-(Создание чит-модов стоит дороже чем обычные моды, имейте ввиду.)
+(Создание чит-модов и стилеров стоит дороже чем обычные моды, имейте ввиду.)
 ## 🛠️ ПРИМЕРЫ РАБОТ 
 
 
